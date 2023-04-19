@@ -19,7 +19,7 @@ HabiTile is an up beat, two player strategy game where one gains or loses points
 ---
 Rachel Berg, Lyle Dotson, Paul Gestwicki
 
-Victoria Granger, Jeffery Harmon, Kira Kasdorf
+Victoria Granger, Jeffrey Harmon, Kira Kasdorf
 
 Karim Mahfouz, Jadi Miller, Tyler Newman
 
