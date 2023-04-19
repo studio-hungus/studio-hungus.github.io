@@ -7,7 +7,7 @@ Habitile was created by the members of Studio Hungus in collaboration with Ball 
 ---
 The web build of Habitile is designed to be played on a computer or tablet. While it is possible to run the game on a mobile phone, doing so may result in a lower quality experience.
 
-(Source Code)[https://github.com/studio-hungus/habitile]
+[Source Code](https://github.com/studio-hungus/habitile)
 
 
 ## How to play
@@ -30,9 +30,9 @@ Noah Williams, Brooke Wright
 
 ## Special Thanks
 ---
-- (Minnetrista Museum and Gardens)[https://www.minnetrista.net], Brian Statz
-- (Ball State University Immersive Learning Program)[https://www.bsu.edu/about/administrativeoffices/immersive-learning]
-- (Ball State Department of Computer Science)[https://www.bsu.edu/academics/collegesanddepartments/computer-science]
+- [Minnetrista Museum and Gardens](https://www.minnetrista.net), Brian Statz
+- [Ball State University Immersive Learning Program](https://www.bsu.edu/about/administrativeoffices/immersive-learning)
+- [Ball State Department of Computer Science](https://www.bsu.edu/academics/collegesanddepartments/computer-science)
 - George Bus, Independant Advisor
 
 AND GAMERS LIKE YOU! Thank you so much for playing our humble game!
