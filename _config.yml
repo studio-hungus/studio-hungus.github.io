@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 title: HabiTile
 show_downloads: false
 github:
