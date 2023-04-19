@@ -1,5 +1,6 @@
+#About Studio Hungus
 
-# How to play
+## How to play
 ---
 [HabiTile](https://studio-hungus.github.io/habitile/) is an up beat, two player strategy game where one gains or loses points based on where tiles are placed on the board. Each tile, based on an animal within the local ecosystem of Muncie, IN, grants a player different point values based on what tiles are adjacent to it upon placement (including diagonals). The game ends when all tiles on the board have been occupied; at which point, the players' scores are compared. The player with the most points wins!
 
