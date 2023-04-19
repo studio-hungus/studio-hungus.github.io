@@ -1,4 +1,4 @@
-#About Studio Hungus
+# About Studio Hungus
 
 ## How to play
 ---
