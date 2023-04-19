@@ -1,7 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.
+remote_theme: jekyll-theme-cayman
 title: HabiTile
 show_downloads: false
 github:
   repository_url: https://github.com/studio-hungus/habitile
-plugins:
-- jekyll-remote-theme 
