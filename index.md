@@ -1,4 +1,4 @@
-HabiTile was created by the members of Studio Hungus in collaboration with Ball State University and the Minnetrista foundation. This endeavor was undertaken with the goal to create a light tactical game that cultivates curiosity about the local ecosystem. Consisting of a collegiate team, the members of Studio Hungus display prowess in game design, code, art, animation, and music/sound production. The resulting product was created over the course of sixteen weeks and based on a paper prototype designed during the prior semester.
+HabiTile was created by the members of Studio Hungus in collaboration with Ball State University and the Minnetrista foundation. This endeavor was undertaken with the goal to create a light tactical game that cultivates curiosity about the local ecosystem. Consisting of a collegiate team, the members of Studio Hungus display prowess in game design, programming, art, animation, and music/sound production. The resulting product was created over the course of sixteen weeks and based on a paper prototype designed during the prior semester.
 
 ## How to play
 ---
