@@ -29,10 +29,13 @@ Noah Williams, Brooke Wright
 - [Ball State University Immersive Learning Program](https://www.bsu.edu/about/administrativeoffices/immersive-learning)
 - [Ball State Department of Computer Science](https://www.bsu.edu/academics/collegesanddepartments/computer-science)
 - George Buss Jr., Independent Advisor
-
   AND GAMERS LIKE YOU! Thank you so much for playing our humble game!
 
-
+### And a special shoutout to the players who recorded their high scores at the 2023 Hoosier game expo
+- fishman and Luciva with a score of 290
+- Tim with a score of 390
+- Caleb with a score of 405, the highest score recorded!
+- Even if you didn't record your score, Studio Hungus thanks you for checking the game out at the event.
 
 > Yippee!
 
